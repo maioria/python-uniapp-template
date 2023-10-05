@@ -1,0 +1,14 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/uni_modules/uni-table/i18n",
+        "src/uni_modules/uni-calendar/components/uni-calendar/i18n",
+        "src/uni_modules/uni-countdown/components/uni-countdown/i18n",
+        "src/uni_modules/uni-datetime-picker/components/uni-datetime-picker/i18n",
+        "src/uni_modules/uni-fav/components/uni-fav/i18n",
+        "src/uni_modules/uni-goods-nav/components/uni-goods-nav/i18n",
+        "src/uni_modules/uni-load-more/components/uni-load-more/i18n",
+        "src/uni_modules/uni-pagination/components/uni-pagination/i18n",
+        "src/uni_modules/uni-popup/components/uni-popup/i18n",
+        "src/uni_modules/uni-search-bar/components/uni-search-bar/i18n"
+    ]
+}
