@@ -1,0 +1,2 @@
+# python-uniapp-template
+基于python与uniapp的开发模板，python web层fastAPI，数据持久层使用sqlalchemy，基于orm，可以切换支持的数据库。uniapp使用vue3与typescript
